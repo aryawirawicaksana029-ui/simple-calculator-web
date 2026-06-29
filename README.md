@@ -2,6 +2,8 @@
 
 A simple calculator web app built while learning the fundamentals of HTML, CSS, and JavaScript. This is a learning project — built to understand how the three core web languages work together, coming from a Python background.
 
+🔗 **Live demo:** https://aryawirawicaksana029-ui.github.io/simple-calculator-web/
+
 ## Features
 
 - Basic operations: addition, subtraction, multiplication, division
